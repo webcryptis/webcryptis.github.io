@@ -1,0 +1,179 @@
+/**********************************************************
+ *                                    Unités d'enseignement
+**/
+
+div.annee {
+	margin-top: 3px;
+	margin-left: 10px;
+	padding: 0;
+ 	width: 600px;
+ 	text-align: right;
+ 	font-size: 10px;
+ 	color: #f6a800;
+	clear: both;
+ 	}
+
+div.annee span.bt_deplier,
+div.annee span.bt_refermer {
+	cursor: pointer;
+	height: 12px;
+	}
+	
+div.annee span.bt_deplier:hover,
+div.annee span.bt_refermer:hover {
+	color: #000000;
+	}
+div#annee1 {
+	}
+
+div#annee2 {
+	margin-top: 15px;
+	}
+
+div.semestre {
+	margin: 0;
+	margin-top: 0;
+ 	margin-left: 10px;
+	padding: 0;
+	display: none;
+	}
+
+div#semestre2,
+div#semestre4 {
+	margin-bottom: 36px;
+	}
+div#contenu h3.semestre {
+	height: 30px;
+	width: 565px;
+	margin-left: 10px;
+	background-color: #f7a800;
+	color: #FFFFFF;
+	font-size: 18px;
+	font-weight: normal;
+	padding-left: 35px;
+	padding-top: 9px;
+	margin-bottom: 2px;
+	margin-top: 0;
+	cursor: pointer;
+	position: relative;
+	}
+
+div#contenu h3.semestre span.plusmoins { 
+	background-image: url(images/bt_plusMoins.png);
+	background-position: -25px 0;
+	display: block;
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	top:9px;
+	left: 9px;
+	}
+ 
+	
+div.titreColonnes {
+	margin: 0;
+	background-color: #b1b3b4;
+	color: #FFFFFF;
+	font-size: 14px;
+	height: 27px;
+	border-bottom: 1px solid #FFFFFF;
+	}
+
+div.titreColonnes span {
+	display: block;
+	float: left;
+	height: 21px;
+	text-align: center;
+	padding-top: 6px;
+    padding-right: 0;
+    padding-left: 0;
+	}
+span.intitule {
+	border-right: #FFFFFF solid 1px;
+	border-bottom:0;
+	margin-bottom:0;
+	text-align: left;
+	padding-left: 9px;
+	}
+span.ects {
+	border-right: #FFFFFF solid 1px;
+	}
+span.cours {
+	border-right: #FFFFFF solid 1px;
+	}
+span.td {
+	border-right: #FFFFFF solid 1px;
+	}
+span.tp {
+	border-right: none;
+	}
+
+div.general:hover {
+ 	}
+div.general {
+	margin: 0;
+	background-color: #E2E2E2;
+	color: #000000;
+	font-size: 12px;
+	height: 21px;
+	padding-top: 5px;
+	border-bottom: 1px solid #FFFFFF;
+	clear: both;
+ 	}
+div.ue {
+	cursor: pointer;
+	}
+div.ue span {
+	display: block;
+	float: left;
+ 	text-align: center; 
+	height: 21px;
+	}
+	
+div.general span.intitule {
+	text-align: left; 
+	padding-left: 9px;
+	}
+	
+div.general {
+
+	}
+
+div.detail {  
+	display: none;
+	background-color: #fdeecc;
+	font-size: 11px;
+	padding: 12px;
+	margin: 0;
+	border-bottom: solid 3px #FFFFFF;
+	}
+
+div#content div.detail p {   
+	padding: 0;	 
+	margin: 0;
+ 	margin-bottom: 3px;
+	}
+div#content div.detail ul {   
+	padding: 0;
+ 	margin: 0;
+ 	margin-left: 15px;
+ 	list-style-type:disc;
+ 	}
+div#content div.detail li {   
+	padding: 0;
+ 	margin: 0;
+ 	margin-bottom: 3px;
+ 	list-style-type:disc;
+ 	}
+
+
+div#texteAvant { 
+	}
+
+div#texteApres {
+	margin-top: 21px;
+	}
+
+
+
+

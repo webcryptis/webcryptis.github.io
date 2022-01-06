@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/english/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/english/event/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/event/event-1/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/event/event-2/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/event/event-3/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/event/event-4/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/event/event-5/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/event/event-6/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/advice/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ai/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/course/course-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/course-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/course/course-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/automation/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/automation-system/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/event/event-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/event/event-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/event/event-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/event/event-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/event/event-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/event/event-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/deep-learning/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/blog-post-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/blog-post-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/blog-post-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/blog-post-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/blog-post-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/blog-post-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/eco/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/eco-system/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/education/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/education-system/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/blog/blog-post-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/blog/blog-post-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/blog/blog-post-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/blog/blog-post-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/blog/blog-post-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/blog/blog-post-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/english/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/english-learning/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/research/research-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/research/research-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/research/research-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/research/research-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/research/research-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/research/research-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/research/research-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/research/research-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/research/research-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/research/research-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/research/research-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/research/research-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/course-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/course-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/course/course-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/blog/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/research/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/course/course-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/mathmatics-learning/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/course-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/notice/notice-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/notice/notice-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/notice/notice-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/notice/notice-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/notice/notice-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/notice/notice-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/event/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/notice/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/notice/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/course/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/research/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/course-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/course/course-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rules/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/english/notice/notice-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/notice/notice-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/notice/notice-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/notice/notice-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/notice/notice-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/notice/notice-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/course/course-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/course/course-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/english/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/english/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/teacher/alex-rook/</loc>
+  </url>
+  
+  <url>
+    <loc>/english/teacher/alex-rook/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+  </url>
+  
+  <url>
+    <loc>/scholarship/</loc>
+  </url>
+  
+  <url>
+    <loc>/english/scholarship/scholarship-1/</loc>
+  </url>
+  
+  <url>
+    <loc>/english/scholarship/scholarship-2/</loc>
+  </url>
+  
+  <url>
+    <loc>/english/scholarship/scholarship-3/</loc>
+  </url>
+  
+  <url>
+    <loc>/teacher/clark-malik/</loc>
+  </url>
+  
+  <url>
+    <loc>/english/teacher/clark-malik/</loc>
+  </url>
+  
+  <url>
+    <loc>/teacher/devid-luis/</loc>
+  </url>
+  
+  <url>
+    <loc>/english/teacher/devid-luis/</loc>
+  </url>
+  
+  <url>
+    <loc>/teacher/duis-rio/</loc>
+  </url>
+  
+  <url>
+    <loc>/english/teacher/duis-rio/</loc>
+  </url>
+  
+  <url>
+    <loc>/scholarship/scholarship-1/</loc>
+  </url>
+  
+  <url>
+    <loc>/scholarship/scholarship-2/</loc>
+  </url>
+  
+  <url>
+    <loc>/scholarship/scholarship-3/</loc>
+  </url>
+  
+  <url>
+    <loc>/teacher/jacke-mastio/</loc>
+  </url>
+  
+  <url>
+    <loc>/english/teacher/jacke-mastio/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>/english/author/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>/maquette/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/maquette/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/maquette/"
+                />
+  </url>
+  
+  <url>
+    <loc>/author/mark-dinn/</loc>
+  </url>
+  
+  <url>
+    <loc>/english/author/mark-dinn/</loc>
+  </url>
+  
+  <url>
+    <loc>/teacher/</loc>
+  </url>
+  
+  <url>
+    <loc>/english/teacher/</loc>
+  </url>
+  
+  <url>
+    <loc>/english/scholarship/</loc>
+  </url>
+  
+  <url>
+    <loc>/teacher/zim-cook/</loc>
+  </url>
+  
+  <url>
+    <loc>/english/teacher/zim-cook/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+  </url>
+  
+</urlset>
