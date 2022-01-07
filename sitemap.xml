@@ -1,18 +1,569 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://webcryptis.github.io/fr/sitemap.xml</loc>
-		
-	   	<lastmod>2019-07-06T15:27:17+06:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://webcryptis.github.io/en/sitemap.xml</loc>
-		
-	   	<lastmod>2030-03-09T15:27:17+06:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/event/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/event/event-1/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/event/event-2/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/event/event-3/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/event/event-4/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/event/event-5/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/event/event-6/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/tags/advice/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/tags/ai/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/course/course-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/course/course-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/course/course-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/tags/automation/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/categories/automation-system/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/categories/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/event/event-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/event/event-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/event/event-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/event/event-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/event/event-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/event/event-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/categories/deep-learning/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/blog/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/blog/blog-post-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/blog/blog-post-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/blog/blog-post-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/blog/blog-post-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/blog/blog-post-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/blog/blog-post-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/tags/eco/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/categories/eco-system/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/tags/education/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/categories/education-system/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/blog/blog-post-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/blog/blog-post-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/blog/blog-post-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/blog/blog-post-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/blog/blog-post-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/blog/blog-post-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/tags/english/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/categories/english-learning/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/research/research-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/research/research-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/research/research-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/research/research-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/research/research-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/research/research-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/research/research-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/research/research-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/research/research-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/research/research-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/research/research-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/research/research-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/course/course-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/course/course-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/course/course-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/blog/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/research/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/course/course-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/categories/mathmatics-learning/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/course/course-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/notice/notice-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/notice/notice-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/notice/notice-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/notice/notice-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/notice/notice-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/notice/notice-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/course/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/event/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/notice/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/notice/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/course/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/research/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/course/course-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/course/course-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/tags/rules/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/tags/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/notice/notice-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/notice/notice-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/notice/notice-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/notice/notice-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/notice/notice-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/notice/notice-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/course/course-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/course/course-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/teacher/alex-rook/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/teacher/alex-rook/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/author/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/scholarship/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/scholarship/scholarship-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/scholarship/scholarship-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/scholarship/scholarship-3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/teacher/clark-malik/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/teacher/clark-malik/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/teacher/devid-luis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/teacher/devid-luis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/teacher/duis-rio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/teacher/duis-rio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/scholarship/scholarship-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/scholarship/scholarship-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/scholarship/scholarship-3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/teacher/jacke-mastio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/teacher/jacke-mastio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/author/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/author/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/maquette/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/author/mark-dinn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/author/mark-dinn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/teacher/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/teacher/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/scholarship/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/teacher/zim-cook/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/english/teacher/zim-cook/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://webcryptis.github.io/contact/</loc>
+  </url>
+  
+</urlset>
