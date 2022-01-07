@@ -44,8 +44,8 @@ div#semestre4 {
 	}
 div#contenu h3.semestre {
 	height: 30px;
-	width: 565px;
-	margin-left: 10px;
+	/* width: 565px; */
+	/* margin-left: 10px; */
 	background-color: #f7a800;
 	color: #FFFFFF;
 	font-size: 18px;
@@ -60,7 +60,7 @@ div#contenu h3.semestre {
 
 div#contenu h3.semestre span.plusmoins { 
 	background-image: url(images/bt_plusMoins.png);
-	background-position: -25px 0;
+	background-position: -25px -20px;
 	display: block;
 	width: 20px;
 	height: 20px;
@@ -114,8 +114,8 @@ div.general {
 	margin: 0;
 	background-color: #E2E2E2;
 	color: #000000;
-	font-size: 12px;
-	height: 21px;
+	font-size: 14px;
+	height: 23px;
 	padding-top: 5px;
 	border-bottom: 1px solid #FFFFFF;
 	clear: both;
@@ -127,7 +127,7 @@ div.ue span {
 	display: block;
 	float: left;
  	text-align: center; 
-	height: 21px;
+	height: 23px;
 	}
 	
 div.general span.intitule {
@@ -135,14 +135,10 @@ div.general span.intitule {
 	padding-left: 9px;
 	}
 	
-div.general {
-
-	}
-
 div.detail {  
 	display: none;
 	background-color: #fdeecc;
-	font-size: 11px;
+	font-size: 13px;
 	padding: 12px;
 	margin: 0;
 	border-bottom: solid 3px #FFFFFF;

@@ -129,7 +129,7 @@
 
 
 	
-<section class="page-title-section overlay" style="background-image: url('/images/backgrounds/page-title.jpg'),url('/images/backgrounds/page-title.jpg');" >
+<section class="page-title-section overlay" style="background-image: url('/images/fond/page-title.jpg'),url('/images/backgrounds/page-title.jpg');" >
   <div class="container">
     <div class="row">
       <div class="col-md-8">
@@ -156,49 +156,50 @@
           </div>
           
           <div class="col-12 mb-5">
-            <h3 class="semestre" id="titre_semestre1"><span class="plusmoins" style="background-position: 0px 0px;"></span>SEMESTRE 1</h3>
-<div class="titreColonnes">
-    <span class="intitule col-8">UE obligatoires (30 crédits)</span>
-    <span class="ects col-1">ECTS</span>
-    <span class="cours col-1">COURS</span>
-    <span class="td col-1">TD</span>
-    <span class="tp col-1">TP</span>
-</div>
+            <div class="col-12" id="contenu">
+  <h3 class="semestre" id="titre_semestre1" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('span').css('background-position',function () {return $h.next('div').is(':visible') ? '0px 0px' : '-25px 0';});});"><span class="plusmoins" style="background-position: 0px 0px;"></span>SEMESTRE 1</h3>
+  <div>
+    <div class="titreColonnes">
+      <span class="intitule col-8">UE obligatoires (30 crédits)</span>
+      <span class="ects col-1">ECTS</span>
+      <span class="cours col-1">COURS</span>
+      <span class="td col-1">TD</span>
+      <span class="tp col-1">TP</span>
+    </div>
 
-
-
-
-<div class="ue">
-  
-  <div class="general" style="background-color: rgb(226, 226, 226);">
-    <span class="intitule col-8">Java avancé</span>
-    <span class="ects col-1">3</span>
-    <span class="cours col-1">12</span>
-    <span class="td col-1">0</span>
-    <span class="tp col-1">18</span>
-  </div>
-  <div class="detail ouvert" style="display: block;">  
-    <ul>
+    
+    
+    
+    <div class="ue">
+      
+      <div class="general" style="background-color: rgb(226, 226, 226);" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
+        <span class="intitule col-8">Java avancé</span>
+        <span class="ects col-1">3</span>
+        <span class="cours col-1">12</span>
+        <span class="td col-1">0</span>
+        <span class="tp col-1">18</span>
+      </div>
+      <div class="detail ouvert" style="display: block;">  
+        <ul>
 <li>Apprentissage de l&rsquo;API crypto de Java (JCA) en complément d&rsquo;Openssl</li>
 <li>Signature et le déploiement d&rsquo;applets pour une PKI</li>
 <li>Utilisation de XML signature</li>
 </ul>
-    <br> Responsable(s) : Jean-Louis Lanet
-  </div>
-</div>
+        <br> Responsable(s) : Jean-Louis Lanet
+      </div>
+    </div>
 
-
-<div class="ue">
-  
-  <div class="general" style="background-color: rgb(226, 226, 226);">
-    <span class="intitule col-8">Introduction à la cryptologie</span>
-    <span class="ects col-1">3</span>
-    <span class="cours col-1">12</span>
-    <span class="td col-1">18</span>
-    <span class="tp col-1">0</span>
-  </div>
-  <div class="detail ouvert" style="display: block;">  
-    Ce module est accessible aux étudiants de niveau <strong>licence de mathématiques</strong> ou <strong>licence d&rsquo;informatique</strong>.</p>
+    <div class="ue">
+      
+      <div class="general" style="background-color: rgb(226, 226, 226);" onclick="$h = $(this);$h.next('div').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('div').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
+        <span class="intitule col-8">Introduction à la cryptologie</span>
+        <span class="ects col-1">3</span>
+        <span class="cours col-1">12</span>
+        <span class="td col-1">18</span>
+        <span class="tp col-1">0</span>
+      </div>
+      <div class="detail ouvert" style="display: block;">  
+        Ce module est accessible aux étudiants de niveau <strong>licence de mathématiques</strong> ou <strong>licence d&rsquo;informatique</strong>.</p>
 <ul>
 <li>Fondements de la cryptographie: problématique. Théorie de l&rsquo;information, entropie.</li>
 <li>Point de vue historique, cryptanalyse des systèmes historiques. One Time Pad, sécurité parfaite.</li>
@@ -209,12 +210,13 @@
 <li>Authentification cryptographique (MAC, défi/réponse,&hellip;), principes cryptographiques des signatures électroniques.</li>
 <li>Problématique de la diffusion, de la gestion et de la protection des clés.</li>
 </ul>
-    <br> Responsable(s) : Pierre Dusart
+        <br> Responsable(s) : Pierre Dusart
+      </div>
+    </div>
+
+
   </div>
 </div>
-
-
-
 
 
           </div>
