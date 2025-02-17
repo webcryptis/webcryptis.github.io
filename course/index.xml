@@ -1,70 +1,235 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nos cours on Site Web du Master Cryptis</title>
+    <title>Courses on Site Web du Master Cryptis</title>
     <link>https://webcryptis.github.io/course/</link>
-    <description>Recent content in Nos cours on Site Web du Master Cryptis</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <copyright>Copyright &amp;copy; 2021 a hugo theme by [Themefisher](https://themefisher.com/hugo-themes/)</copyright>
-    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
-    
-	<atom:link href="https://webcryptis.github.io/course/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <description>Recent content in Courses on Site Web du Master Cryptis</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <atom:link href="https://webcryptis.github.io/course/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Algorithme</title>
-      <link>https://webcryptis.github.io/course/course-5/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://webcryptis.github.io/course/course-5/</guid>
-      <description>À propos du cours Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <title>Administration et sécurité des systèmes et réseaux</title>
+      <link>https://webcryptis.github.io/course/assr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/assr/</guid>
+      <description>Administration et sécurité des systèmes et réseaux 9 ECTS - 45 CM / 45 TD / 15 TP Description Partie réseaux Notion de politique de sécurité Tunnels, encapsulation : STUN, GRE, tunnel applicatif, SSH Chiffrements des flux (VPN): IPSec, OpenVPN, Wireguard TLS : présentation du protocole et des principales attaques et des contre mesures Architectures de sécurité, IDS, monitoring sécurité Authentification: 802.</description>
     </item>
-    
     <item>
-      <title>Intelligence artificielle</title>
-      <link>https://webcryptis.github.io/course/course-3/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://webcryptis.github.io/course/course-3/</guid>
-      <description>À propos du cours Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <title>Administration Réseaux</title>
+      <link>https://webcryptis.github.io/course/admin_res/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/admin_res/</guid>
+      <description>Administration Réseaux 3 ECTS - 10.5 CM / 12 TD / 7.</description>
     </item>
-    
     <item>
-      <title>JavaScript</title>
-      <link>https://webcryptis.github.io/course/course-4/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://webcryptis.github.io/course/course-4/</guid>
-      <description>À propos du cours Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <title>Algorithmique et Programmation Avancée</title>
+      <link>https://webcryptis.github.io/course/apa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/apa/</guid>
+      <description>Algorithmique et Programmation Avancée 3 ECTS - 6 CM / 12 TD / 12 TP Description Diviser Pour Régner Programmation Dynamique Algorithmes gloutons Branch and Bound (séparation et évaluation) Objectifs Ce module présente une approche des grandes familles d&amp;#39;algorithmes couramment utilisées pour résoudre efficacement des problème complexes de l&amp;#39;informatique.</description>
     </item>
-    
     <item>
-      <title>Mathématiques</title>
-      <link>https://webcryptis.github.io/course/course-2/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://webcryptis.github.io/course/course-2/</guid>
-      <description>À propos du cours Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <title>Analyse et Développement Logiciel 1</title>
+      <link>https://webcryptis.github.io/course/adl1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/adl1/</guid>
+      <description>Projet réparti sur les deux semestres</description>
     </item>
-    
     <item>
-      <title>Photographie</title>
-      <link>https://webcryptis.github.io/course/course-1/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://webcryptis.github.io/course/course-1/</guid>
-      <description>À propos du cours Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <title>Analyse et Développement Logiciel 2</title>
+      <link>https://webcryptis.github.io/course/adl2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/adl2/</guid>
+      <description>Projet réparti sur les deux semestres</description>
     </item>
-    
     <item>
-      <title>Vlogging</title>
-      <link>https://webcryptis.github.io/course/course-6/</link>
-      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
-      
-      <guid>https://webcryptis.github.io/course/course-6/</guid>
-      <description>À propos du cours Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <title>Anglais</title>
+      <link>https://webcryptis.github.io/course/anglais/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/anglais/</guid>
+      <description>Anglais 3 ECTS - 0 CM / 36 TD / 0 TP Description Objectifs Formation orientée sur les deux années de façon à préparer les étudiants à atteindre le niveau B2 européen.</description>
     </item>
-    
+    <item>
+      <title>Anglais</title>
+      <link>https://webcryptis.github.io/course/anglais_s9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/anglais_s9/</guid>
+      <description> Anglais 3 ECTS - 0 CM / 30 TD / 0 TP Description Formation orientée sur les deux années de façon à préparer les étudiants à atteindre le niveau B2 européen Objectifs </description>
+    </item>
+    <item>
+      <title>Applications distribuées JEE</title>
+      <link>https://webcryptis.github.io/course/applications-distribuees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/applications-distribuees/</guid>
+      <description> Applications distribuées JEE 3 ECTS - 12 CM / 0 TD / 18 TP Description Introductions aux applications distribuées et aux serveurs d&amp;rsquo;applications dans JEE React pour la programmation front end Les EJB La persistance de donnée avec JPA Les architectures de micro-services Conception et développement de services web REST et SOAP en JEE Notions de sécurité avec JEE Objectifs Concept d&amp;#39;applications distribuées et d&amp;#39;architectures micro-services </description>
+    </item>
+    <item>
+      <title>Audit et Sécurité Réseaux</title>
+      <link>https://webcryptis.github.io/course/audit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/audit/</guid>
+      <description> Audit et Sécurité Réseaux 3 ECTS - 9 CM / 12 TD / 9 TP Description Audit réseaux : interception et analyse de trafic, construction de paquets et injection avec Scapy Sécurité dans un réseau IP, risques d&amp;rsquo;attaques et contre-mesures, OS fingerprint, TCP cookies, Fragmentation, TCP fast open Le protocole IPv6 : format du datagramme et des extensions, adressage globale, portée et adressage unicast/multicast/anycast, QoS, les protocoles NDP (Neighbour Discovery Protocol), PathMTU Discovery, auto-configuration : sans état SLAAC et avec état DHCPv6, Router Advertisement et risque de sécurité, programmation réseau Objectifs </description>
+    </item>
+    <item>
+      <title>Cartes à puce et développement Java Card</title>
+      <link>https://webcryptis.github.io/course/java-card/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/java-card/</guid>
+      <description>Cartes à puce et développement Java Card 3 ECTS - 12 CM / 18 TD / 0 TP Description Norme ISO 7816 régissant l&amp;rsquo;interopérabilité des cartes à puce.</description>
+    </item>
+    <item>
+      <title>Certification et développement sécurisé</title>
+      <link>https://webcryptis.github.io/course/certif/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/certif/</guid>
+      <description>Certification et développement sécurisé 3 ECTS - 21 CM / 9 TD / 0 TP Description Définition d&amp;rsquo;une analyse de risque (identification des menaces, des hypothèses d&amp;rsquo;utilisation du produit, etc.</description>
+    </item>
+    <item>
+      <title>Complexité et Calculabilité</title>
+      <link>https://webcryptis.github.io/course/complexite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/complexite/</guid>
+      <description>Complexité et Calculabilité 3 ECTS - 12 CM / 18 TD / 0 TP Description Dénombrabilité, procédé diagonal de Cantor, alphabets, langages.</description>
+    </item>
+    <item>
+      <title>Cryptologie Avancée</title>
+      <link>https://webcryptis.github.io/course/crypto-avance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/crypto-avance/</guid>
+      <description>Cryptologie Avancée 3 ECTS - 12 CM / 12 TD / 6 TP Description Le but de ce cours qui a un public mixte info/math est de voir les concepts et les algorithmes de base modernes utilisés en cryptographie depuis 40 ans:</description>
+    </item>
+    <item>
+      <title>Développement de logiciels cryptographiques</title>
+      <link>https://webcryptis.github.io/course/dlc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/dlc/</guid>
+      <description>Développement de logiciels cryptographiques 3 ECTS - 15 CM / 0 TD / 15 TP Description Cryptographie asymétrique : test de primalités, génération de premiers, logarithme discret, factorisation, courbes elliptiques.</description>
+    </item>
+    <item>
+      <title>Développement sur GPGPU</title>
+      <link>https://webcryptis.github.io/course/gpgpu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/gpgpu/</guid>
+      <description> ECTS - CM / TD / TP Description Objectifs </description>
+    </item>
+    <item>
+      <title>Droit et Conduite de Projet</title>
+      <link>https://webcryptis.github.io/course/dcp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/dcp/</guid>
+      <description> Droit et Conduite de Projet 3 ECTS - 30 CM / 0 TD / 0 TP Description Initiation au droit de l&amp;rsquo;Informatique: propriété intellectuelle, loi « Informatique et Libertés », Loi Godfrain, législation sur la cryptographie&amp;hellip; Introduction à la conduite de projet Informatique Réalisation d&amp;rsquo;un projet d&amp;rsquo;ouverture Objectifs Aborder les notions juridiques et de conduite de projet afférentes à l&amp;#39;Informatique </description>
+    </item>
+    <item>
+      <title>Infrastructures Réseaux</title>
+      <link>https://webcryptis.github.io/course/infra-res/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/infra-res/</guid>
+      <description>Infrastructures Réseaux 3 ECTS - 9 CM / 12 TD / 9 TP Description D&amp;rsquo;un point de vue théorique : Routage dynamique : RIP, OSPF &amp;amp; BGP VPNs et Tunnels de niveau 2 &amp;amp; 3 : GRE, IPsec, L2TPv3 Policy based Routing &amp;amp; Firewall : scope, marquage de trafic, utilisation de multiples tables de routage, application à la sécurité et à la QoS OpenFlow pour la surveillance et le contrôle de trafic de niveau 2 D&amp;rsquo;un point de vue pratique : Déploiement et étude de RIP et OSPF avec Quagga Déploiement de tunnels GRE, IPsec, GRE over IPsec, PPP over SSH, VPN over SSH Projet : Tunnel L2TPv3 sécurisé par IPsec pour la mise en œuvre de « trunking » de VLANs.</description>
+    </item>
+    <item>
+      <title>Intelligence Artificielle 1</title>
+      <link>https://webcryptis.github.io/course/ia1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/ia1/</guid>
+      <description>Intelligence Artificielle 1 3 ECTS - 9 CM / 9 TD / 12 TP Description Méthodes de recherche avec heuristique dans un espace d&amp;rsquo;états Problèmes de satisfaction de contraintes (CSP) Algorithmes pour les jeux Représentation des connaissances et systèmes experts Techniques d&amp;rsquo;apprentissage Introduction aux réseaux de neurones.</description>
+    </item>
+    <item>
+      <title>Intelligence Artificielle 2</title>
+      <link>https://webcryptis.github.io/course/ia2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/ia2/</guid>
+      <description>Intelligence Artificielle 2 3 ECTS - 9 CM / 9 TD / 12 TP Description Les générateurs de systèmes experts Les algorithmes génétiques Introduction aux réseaux bayésiens Intelligence artificielle distribuée: Introduction aux systèmes multi-agents Systèmes Intelligents à base de colonies de fourmis Objectifs Au terme de cette activité, l&amp;#39;étudiant(e) maîtrisera les concepts fondamentaux de l&amp;#39;apprentissage automatique et pourra appliquer ces notions à des problèmes concrets.</description>
+    </item>
+    <item>
+      <title>Introduction à la cryptologie</title>
+      <link>https://webcryptis.github.io/course/intro-crypto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/intro-crypto/</guid>
+      <description>Introduction à la cryptologie 3 ECTS - 12 CM / 18 TD / 0 TP Description Ce module est accessible aux étudiants de niveau licence de mathématiques ou licence d&amp;rsquo;informatique.</description>
+    </item>
+    <item>
+      <title>Mécanismes cryptographiques et applications</title>
+      <link>https://webcryptis.github.io/course/meca-crypto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/meca-crypto/</guid>
+      <description> Mécanismes cryptographiques et applications 4 ECTS - 21 CM / 15 TD / 9 TP Description Objectifs </description>
+    </item>
+    <item>
+      <title>Méthodologie pour la sécurité</title>
+      <link>https://webcryptis.github.io/course/methodo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/methodo/</guid>
+      <description> Méthodologie pour la sécurité 3 ECTS - 30 CM / 0 TD / 0 TP Description Evaluation des risques dans une organisation ou induits par une solution informatique Conception de systèmes sécurisés Management de la sécurité des systèmes d&amp;rsquo;informations Objectifs La série ISO 270xx et les Systèmes de Management de la Sécurité de l&amp;#39;Information (SMSI) Le Référentiel Général de Sécurité (RGS) Les analyses de risques de type EBIOS Les Politiques de Sécurité des Systèmes d&amp;#39;Information (PSSI) La gestion commerciale </description>
+    </item>
+    <item>
+      <title>Organisation de l&#39;entreprise</title>
+      <link>https://webcryptis.github.io/course/orga-entreprise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/orga-entreprise/</guid>
+      <description> Organisation de l&amp;#39;entreprise 2 ECTS - 6 CM / 14 TD / 0 TP Description Objectifs </description>
+    </item>
+    <item>
+      <title>Parallélisme et Applications</title>
+      <link>https://webcryptis.github.io/course/par-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/par-app/</guid>
+      <description> ECTS - CM / TD / TP Description Objectifs </description>
+    </item>
+    <item>
+      <title>Protocoles et Programmation Réseaux</title>
+      <link>https://webcryptis.github.io/course/proto-prog-reseau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/proto-prog-reseau/</guid>
+      <description>Protocoles et Programmation Réseaux 3 ECTS - 10.5 CM / 12 TD / 7.</description>
+    </item>
+    <item>
+      <title>Sécurité applicative</title>
+      <link>https://webcryptis.github.io/course/secu-app/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/secu-app/</guid>
+      <description>Sécurité applicative 3 ECTS - 15 CM / 15 TD / 0 TP Description Sécurité des messageries électroniques Sécurité des sites Internet: menaces, architecture, sécurisation.</description>
+    </item>
+    <item>
+      <title>Sécurité des Usages des TIC</title>
+      <link>https://webcryptis.github.io/course/secu-tic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/secu-tic/</guid>
+      <description>Sécurité des Usages des TIC 3 ECTS - 15 CM / 0 TD / 15 TP Description Menaces Internet et sur les TIC Protection du poste de travail individuel: protection des documents électroniques, protection contre les « malware » (virus, spyware, rootkit), pare-feux personnels, &amp;hellip; Gestion des droits et des autorisations, principales méthodes d&amp;rsquo;authentification, mot de passe Usages des signatures électroniques, certificats électroniques, compréhension des IGC Sécurité des communications Internet: courrier électronique, connexion distantes, accès aux sites Internet, voix IP Protection de la vie privée: traçabilité des connexions, spyware.</description>
+    </item>
+    <item>
+      <title>Sécurité et implémentations sur cartes à puce</title>
+      <link>https://webcryptis.github.io/course/secu-implem-cartes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/secu-implem-cartes/</guid>
+      <description>Sécurité et implémentations sur cartes à puce 3 ECTS - 9 CM / 12 TD / 9 TP Description Les attaques physiques en général sont introduite dans ce cours : Analyses de Canaux auxiliaires, attaques par fautes Les contre-mesures ne sont pas oubliées, avec une attention particulière sur le développement sécurisé de l&amp;rsquo;exponentiation modulaire.</description>
+    </item>
+    <item>
+      <title>Systèmes Embarqués</title>
+      <link>https://webcryptis.github.io/course/sys-embarques/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/sys-embarques/</guid>
+      <description>Systèmes Embarqués 3 ECTS - 12 CM / 9 TD / 9 TP Description Présentation des SoC, &amp;ldquo;Système on Chip&amp;rdquo; : Rappels architecture ordinateur : bus, adresses, registres d&amp;rsquo;E/S, interruptions Rappels électroniques : signaux logiques, GPIOs, convertisseurs ADC, pull down, pull up Communication externe : bus série, interface déboguage SWD/JTAG, WiFi/bluetooth Communication interne : bus SPI, bus I2C, PWM Utilisation de microPython Développement &amp;ldquo;bare-metal&amp;rdquo; :* Initiation à l&amp;rsquo;assembleur ARM : instructions, appel de fonctions, intégration en C Segmentation mémoire : pile, tas, code et données Gestion des interruptions : table des vecteurs d&amp;rsquo;interruption Développement d&amp;rsquo;un firmware Programmation en C : Utilisation de Qemu/Raspberry Pico Développement &amp;ldquo;OS temps réel&amp;rdquo; :* Notion de priorités et ordonnancement de threads Création des tâches Communication inter threads et synchronisation : queues, notifications Concurrence et protection des ressources : mutex, sémaphores Gestion des événements : event bits, ISR &amp;ldquo;Interrupt service routine&amp;rdquo; Programmation en C : Utilisation de FreeRTOS sur Raspberry Pico.</description>
+    </item>
+    <item>
+      <title>Techniques de sécurité prouvée</title>
+      <link>https://webcryptis.github.io/course/secu-prov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/secu-prov/</guid>
+      <description>Techniques de sécurité prouvée 3 ECTS - 21 CM / 9 TD / 0 TP Description Durant ce module, les étudiants seront confrontés à des concepts de base de la sécurité prouvée comme les jeux de sécurité, modèles, oracles, adversaires, hypothèses, réductions, etc.</description>
+    </item>
+    <item>
+      <title>Terminaux mobiles communicants</title>
+      <link>https://webcryptis.github.io/course/tmc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/tmc/</guid>
+      <description>Terminaux mobiles communicants 3 ECTS - 15 CM / 0 TD / 15 TP Description IoT : matériel (système ARM et OS Linux, RTOS RiscV et FreeRTOS), organisationnel (Cloud, protocoles de télémétrie) et des enjeux de leur sécurisation (illustration sur ESP32c3 et Raspberry Pi) ; Sécurité des communications : utilisation de cryptoprocesseur pour le stockage sécurisé de clés et l&amp;rsquo;établissement de connexion sécurisé (utilisation du composant ATECC608 et intégration dans TLS) ; Transmission radio : comprendre les rapports entre fréquences, bande passante, distance et consommation/durée de vie d&amp;rsquo;une batterie.</description>
+    </item>
+    <item>
+      <title>Théorie des Jeux</title>
+      <link>https://webcryptis.github.io/course/theorie-jeux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://webcryptis.github.io/course/theorie-jeux/</guid>
+      <description> Théorie des Jeux 3 ECTS - 9 CM / 9 TD / 12 TP Description Concepts de solution Jeux sous forme normale : stratégies dominantes/dominée Équilibre de Nash Critère de Pareto Stratégies mixtes et jeux à somme nulle Jeux sous forme extensive : équilibres corrélés Jeux répétés Objectifs Introduction à la théorie des jeux </description>
+    </item>
   </channel>
 </rss>
